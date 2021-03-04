@@ -1,0 +1,20 @@
+{
+    "target": "microbit",
+    "targetVersion": "3.1.47",
+    "name": "vl53l0x-microbit",
+    "meta": {},
+    "editor": "tsprj",
+    "pubId": "",
+    "pubCurrent": false,
+    "_rev": null,
+    "id": "426c1a5b-2097-4eff-1373-578138444ccc",
+    "recentUse": 1610185057,
+    "modificationTime": 1610185057,
+    "blobId": null,
+    "blobVersion": null,
+    "blobCurrent": false,
+    "isDeleted": false,
+    "path": "vl53l0x-microbit-master",
+    "githubCurrent": false,
+    "saveId": null
+}
